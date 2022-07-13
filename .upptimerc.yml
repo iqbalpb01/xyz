@@ -24,6 +24,9 @@ status-website:
   baseUrl: /xyz
   logoUrl: https://i0.wp.com/codeace.com/wp-content/uploads/2019/12/Artboard-1.png
   name: Uptime
+  links:
+    - rel: stylesheet
+      href: https://cdn.beaglesecurity.com/maintenance/status.css
   navbar:
     - title: Status
       href: /
