@@ -31,7 +31,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/iqbalpb01/xyz
   commitMessages:
   commitAuthorName: "iqbal_bot"
   commitAuthorEmail: "hello@iqbalpb.com"
